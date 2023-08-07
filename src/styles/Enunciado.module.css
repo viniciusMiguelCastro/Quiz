@@ -1,0 +1,8 @@
+.enuncidado{
+    display: flex;
+}
+
+.texto{
+    font-size: 2.0rem;
+    font-weight: 700;
+}
